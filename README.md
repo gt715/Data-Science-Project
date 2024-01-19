@@ -1,4 +1,6 @@
 # Data-Science-Project
-I was resposible for the backend code that is dealing with the data
+I was responsible for the backend code that deals with the data
+
 ########
-Dont forget to edit the file path  of the data file in the (app & visualization ) 
+
+Don't forget to edit the file path  of the data file in the (app & visualization ) 
