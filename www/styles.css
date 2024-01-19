@@ -1,0 +1,43 @@
+/* www/styles.css */
+
+/* Custom CSS styles */
+
+body {
+  background-color: #ecf0f1; /* Light background color */
+}
+
+.title-panel h1{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: #3498db;
+}
+
+
+.navbar {
+  background-color: #3498db; /* Navbar background color */
+  color: #fff; /* Navbar text color */
+}
+
+.tab-content {
+  background-color: #fff; /* Background color for tab content */
+  padding: 20px; /* Add padding to tab content */
+}
+
+.table {
+  background-color: #fff; /* Background color for tables */
+  border: 1px solid #ddd; /* Table border color */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Table box shadow */
+  overflow-x: hidden;
+}
+
+.btn-primary {
+  background-color: #3498db !important; /* Primary button background color */
+  border-color: #3498db !important; /* Primary button border color */
+}
+
+.btn-primary:hover {
+  background-color: #2980b9 !important; /* Primary button background color on hover */
+  border-color: #2980b9 !important; /* Primary button border color on hover */
+}
